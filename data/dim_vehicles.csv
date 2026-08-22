@@ -1,0 +1,6 @@
+vehicle_id,vehicle_model,battery_capacity_kwh,battery_chemistry
+1,Tesla Model 3,75.0,NMC
+2,Nissan Leaf,40.0,LFP
+3,BYD Seal,82.5,Blade-LFP
+4,MG ZS EV,51.1,NMC
+5,Hyundai Ioniq 5,77.4,NMC
