@@ -18,7 +18,8 @@ A project to ingest, structure, and analyze real-world Electric Vehicle (EV) bat
 ### Fleet Overview
 ![Battery Degradation Trend](https://raw.githubusercontent.com/anas27sudo/ev-battery-iot-pipeline/main/battery_degradation_trend.png)
 
-> **Interactive Dashboard:** To view and filter individual car model degradation curves, open `battery_interactive_dashboard.html` in any web browser.
+### 🔗 Interactive Fleet Dashboard
+**[Click Here to Launch Interactive Dashboard (Filter by Car Model)](https://anas27sudo.github.io/ev-battery-iot-pipeline/battery_interactive_dashboard.html)**
 
 ## Key Observations
 - Batteries maintained ~88-90% health across extended cycles, staying well above the critical 80% retirement threshold.
@@ -27,6 +28,3 @@ A project to ingest, structure, and analyze real-world Electric Vehicle (EV) bat
 ## Tech Stack
 - Python (Pandas, SQLAlchemy, Matplotlib, Plotly)
 - MySQL
-
-## Comparision
-![alt text](image.png)
