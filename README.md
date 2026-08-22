@@ -27,3 +27,6 @@ A project to ingest, structure, and analyze real-world Electric Vehicle (EV) bat
 ## Tech Stack
 - Python (Pandas, SQLAlchemy, Matplotlib, Plotly)
 - MySQL
+
+## Comparision
+![alt text](image.png)
